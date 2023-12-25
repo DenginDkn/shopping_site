@@ -33,8 +33,3 @@ This is a simple shopping site developed using Flask.
 ## Hosting
 
 The application is hosted on [PythonAnywhere](https://www.pythonanywhere.com/). You can access it [here](YOUR_PYTHONANYWHERE_URL).
-
-## Additional Notes
-
-- This is a basic template. Feel free to customize it based on your specific requirements.
-- For any issues or improvements, please open an [issue](https://github.com/yourusername/shopping-site/issues).
