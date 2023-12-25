@@ -25,7 +25,7 @@ This is a simple shopping site developed using Flask.
 
 2. Run the application:
     ```bash
-    python app.py
+    python -m flask run
     ```
 
 3. Open your web browser and navigate to [http://localhost:5000](http://localhost:5000).
