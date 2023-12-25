@@ -32,4 +32,4 @@ This is a simple shopping site developed using Flask.
 
 ## Hosting
 
-The application is hosted on [PythonAnywhere](https://www.pythonanywhere.com/). You can access it [here](YOUR_PYTHONANYWHERE_URL).
+The application is hosted on [PythonAnywhere](https://dengindkn.pythonanywhere.com/).
